@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd's prophecy to Davian Martikov, the leader of the order.)
 =======
 _An adventure for five 5th-level characters._
+=======
+_An adventure for five 5th-level characters._
+
+In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -38,7 +44,11 @@ Urwin asks the players to travel to the Wizard of Wines and speak with the owner
 Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he's happy for them to take an additional day or two before departing.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 If the players accept Urwin's mission, he asks them to return to the Blue Water Inn on any subsequent morning to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery, and that she is similarly concerned for the winery's safety, but declines to provide any further information.)
+=======
+If the players accept Urwin’s mission, he asks them to return to the Blue Water Inn the following morning to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 If the players accept Urwin’s mission, he asks them to return to the Blue Water Inn the following morning to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -333,7 +343,11 @@ This area is as described in <span class="citation">W15. Brown Mold (p. 178)</sp
 </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 The players can't proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master's Guide</em>) p. 105</span>. 
+=======
+The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -518,8 +532,11 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 * On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > [!combat]- **Balancing the Vat Room**  
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 > [!info]+ **Alerting the Druids**
 > If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
@@ -1218,6 +1235,9 @@ The two **druid assailants** and two **berserkers** work to prevent the players 
     <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
     <h3>Reactions</h3>
     <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<<<<<<< HEAD
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 </div>
 
@@ -1302,7 +1322,11 @@ On Ludmilla's first turn in combat, if Muriel is present, Ludmilla attempts to p
 </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 A player can dissuade Muriel from attacking Ludmilla with a successful DC (25) Persuasion check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack*** Read:
+=======
+A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -1679,6 +1703,20 @@ In gratitude for the players' efforts in recovering the gem from Yester Hill, Da
 <<<<<<< HEAD
 > [!item]+ **Keeper's Whistle**  
 =======
+Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+
+Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+
+<div class="description">
+<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
+<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
+<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
+<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
+<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
+</div>
+
+***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP.
+
 Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
 
 Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:

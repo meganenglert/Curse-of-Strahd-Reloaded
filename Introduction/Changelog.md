@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hotfix 2.0.5.5 (Jan. 18, 2023)
 - Fixed assorted typos & inconsistencies  
 - Clarified the location of the Sunsword and Tome of Strahd in [[dnd/strahd-reloaded/Chapter 3 - Running the Game/Running the Adventure]]  
@@ -23,6 +24,8 @@
 
 # Hotfix 2.0.5.3 (Jan. 3, 2023)
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 # Hotfix 2.0.6.3 (Feb. 4, 2024
 * Delayed Izek's kidnapping of Ireena in [[Arc H - The Strazni Siblings]] to the players' fourth day in Vallaki; the Festival of the Blazing Sun in [[Arc H - The Strazni Siblings]] to the players' fifth day in Vallaki; and St. Andral's Feast in [[Arc E - St. Andral's Feast]] to the players' fifth day in Vallaki.
 * Locked Ezmerelda's wagon and reworked the trap protecting her wagon in [[Arc F - The Missing Vistana]]
@@ -82,6 +85,9 @@
 # Hotfix 2.0.5.4 (Jan. 8, 2024)
 * Changed enemies with multiple reactions per round to lose only one reaction if they would lose their reactions and aren't incapacitated (e.g., if hit by *shocking grasp*)
 # Hotfix 2.0.5.3 (Jan. 3, 2024)
+<<<<<<< HEAD
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
 * Added room codes to winery scenes in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]]

@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 _An adventure for five 6th-level characters._
 
 In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc J: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
@@ -453,5 +456,9 @@ The source of the shriek is a **wereraven** of the Keepers of the Feather, using
 > [!tip] **You've Reached the End of the Mists**
 > You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
 > 
+<<<<<<< HEAD
+> To get a sneak peek at drafts for _**Arc O: Tales of Vallaki**_ and _**Arc P: Dinner with the Devil**_, as well as additional outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
 > To get a sneak peek at drafts for _**Arc O: Tales of Vallaki**_ and _**Arc P: Dinner with the Devil**_, as well as additional outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9

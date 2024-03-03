@@ -773,6 +773,11 @@ This area is largely as described in <span class="citation">Ghoulish Encounter (
 </div>
 
 When a player first enters one of the 5-foot squares at the entrance of the corridors (marked T on the map), three **ghouls** rise up out of the ground in the spaces marked S and attack.
+<<<<<<< HEAD
+=======
+
+![[Ghoulish Encounter Map.png]]
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 ![[Ghoulish Encounter Map.png]]
 

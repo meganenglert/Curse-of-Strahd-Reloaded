@@ -302,7 +302,11 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 <br> 
 <hr> 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p> 
+=======
+<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts her turn with 0 hit points and doesn't regenerate.</p> 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 <p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if she starts her turn with 0 hit points and doesn't regenerate.</p> 
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -1236,9 +1240,16 @@ If the players interrupt Willemina's arrest, the Baron greets them as outsiders 
 The Baron first demands to know whether the players are "spies of the Devil Strahd." The players can attempt to calm the situation and secure Willemina's arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 If it appears that combat is imminent, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina's behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral's Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts. 
 =======
 If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+=======
+If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+
+> [!lore]+ **What's Lucian Doing Here?**
+> After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc E - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 > [!lore]+ **What's Lucian Doing Here?**
 > After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc E - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
@@ -1306,7 +1317,11 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 ***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as baudy and comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana]].
+=======
+***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc F - The Missing Vistana]].
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 ***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc F - The Missing Vistana]].
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9

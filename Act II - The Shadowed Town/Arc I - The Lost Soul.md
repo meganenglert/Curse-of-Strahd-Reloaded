@@ -29,7 +29,11 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents' grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
 > 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using Victor's undead cats, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+=======
+> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 > Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -106,9 +110,12 @@ Victor asks the players to visit the refugee camp and investigate the night hag'
 If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > [!item]+ **Ethereal Entities**
 > 
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > [!lore]+ **Ethereal Entities**
 >
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -584,9 +591,15 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
 <h3>Reactions</h3>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p><strong><em>Mirror Image (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
 <p><strong><em>Hideous Laughter (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
 <p><strong><em>Witch Bolt (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
+=======
+<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
+<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
+<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 <p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
 <p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
@@ -679,7 +692,11 @@ The hags fight in self-defense, or if the players make clear that they will not 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ***Victor Vallakovich.*** In battle, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility spell* spell, remaining within 60 feet of the windmill at all times. 
+=======
+***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 ***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -990,9 +1007,12 @@ A player who makes a successful DC 15 Wisdom (Insight) check discerns that the g
 
 If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players' aid, snarling with defiance.
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 ### Fighting the Gallows Speaker
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -1011,13 +1031,22 @@ In battle, Lady Wachter also gains the following reaction:
 ***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it. 
 
 In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue its current target. 
+<<<<<<< HEAD
+=======
+
+In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
 
+<<<<<<< HEAD
 When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: "When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*" It then lurches forward, skeletal claws grasping for Stella's throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
 
 <<<<<<< HEAD
 When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd#D3. Unlocking the Tome|Unlocking the Tome]] for more information about the *Tome* and its contents.
+=======
+When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#I9. The Tome of Strahd]] for more information about the *Tome* and its contents.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#I9. The Tome of Strahd]] for more information about the *Tome* and its contents.
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -1195,8 +1224,11 @@ The following morning, Victor also sends the players the following message with 
 > [!abstract]+ **Van Richten & the Spirit Mirror**  
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 # I9. The Tome of Strahd
 The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc L - Dinner with Strahd]] for more information about Sasha Ivliskova.)
 
@@ -1225,6 +1257,9 @@ Players who read through these sections find numerous annotations referencing (i
 > [!abstract]+ **The Symbol**
 >
 > The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete **_Arc P - The Beacon of Argynvostholt_**—is willing to tell them how to get there.
+<<<<<<< HEAD
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 

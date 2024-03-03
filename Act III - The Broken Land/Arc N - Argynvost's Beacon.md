@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 _An adventure for five 4th, 5th, or 6th-level characters._
 
 In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
@@ -985,5 +988,9 @@ The gargoyle then whispers the short verse described in <span class="citation">Q
 > [!tip] **You've Reached the End of the Mists**
 > You’ve reached the end of the current public release of the _Curse of Strahd: Reloaded_ guide.
 > 
+<<<<<<< HEAD
+> To get a sneak peek at drafts for _**Arc O: Tales of Vallaki**_ and _**Arc P: Dinner with the Devil**_, as well as additional outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
 > To get a sneak peek at drafts for _**Arc O: Tales of Vallaki**_ and _**Arc P: Dinner with the Devil**_, as well as additional outlines and notes for _**Act III: The Broken Land**_ and the remainder of the adventure, support the guide by joining the author’s [Patreon](https://www.patreon.com/DragnaCarta).
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9

@@ -228,14 +228,20 @@ If the players insist that Madam Eva foresaw the existence of the *Sunsword*, sh
 ***Accepting the Mission.*** If the players accept Lady Wachter's assignment, she promises that she will send one of her associates to brief them on Izek Strazni's schedule—and provide the bottle of poisoned wine—the following morning.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > [!lore]+ **Ezra: What Barovians Know**  
 > Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation">Van Richten's Guide to Ravenloft (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovian passed into the mists, and that no Barovian had heard the goddess's name before then.
 
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 > [!lore]+ **Ezra: What Barovians Know**
 > Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation"><em>Van Richten's Guide to Ravenloft</em> (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovia passed into the mists, and that no Barovian had heard the goddess's name before then.
 ## G2f. The Traitor
 If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading regarding the *Tome of Strahd*, she hesitates, then promises to tell them all she knows regarding her family's history should they successfully defeat Izek.
+<<<<<<< HEAD
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 # G3. Return to the Blue Water Inn
 The following morning, as the players enter the taproom of the Blue Water Inn, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players' invitation the previous day.
@@ -509,6 +515,27 @@ If the players return to Wachterhaus to obtain their promised compensation (if a
 * Enough raw silver to silver up to two additional weapons
 
 All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek's chronic mismanagement.
+
+If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to <span class="citation">N4p. Library (p. 113)</span>. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
+
+Lady Wachter can share the following information as she retrieves and leafs through the book:
+
+* Her ancestor, Lady Lovina Wachter nee Dilisnya, came to Barovia shortly after Strahd von Zarovich settled it. For her loyalty, she received deeds to land and estates, as well as a Barovian title with Strahd as her liege-lord.
+* Lovina, an amateur historian, wrote *The Noble House of Wachter* to document her new family's history, which allegedly dated back to the days of Old Zarovia, long before Barovia was founded.
+
+Upon Lady Wachter has located the proper page, the players can read the following passage from Lovina's book, titled only "The Wedding" and written in erratic, jagged pen-strokes at odds with the clean, elegant script of the remainder of the book:
+
+<div class="description">
+<p>The wedding of Prince Sergei von Zarovich and Tatyana Federovna began with good cheer, but ended in madness and blood. Prince Sergei was found dead in his chambers, his bride-to-be rumored to have cast herself from the overlook in despair.</p>
+<p>Though no suspect was confirmed, Leo Dilisnya—my own kin—led a treacherous uprising against Lord von Zarovich, abetted by a score of castle guards. When I sought to mediate, they turned upon us, slaughtering Vladislav and his mother and confining us within the confines of the kitchens.</p>
+<p>It was only by some miracle that Lord von Zarovich emerged unscathed from their assault. Now possessed with an unearthly power, he smote the traitors and drove Leo himself from the castle.</p>
+<p>In his escape, I saw Leo's face contort with hatred and disgust. "Blood-traitor, I name you, Lovina," he swore, "for your allegiance to the beast who abandoned Reinhold to his fate." He renounced our bond, proclaimed I was no longer of House Dilisnya, and vowed that he would one day expunge the Wachter blight from the valley—once and forevermore.</p>
+<p>I know not what has become of him. He is gone from the Pillarstone now, and though more of the treacherous guards return in caskets to the castle each day, his face is not among them. But each night I hear his voice in my nightmares, I know he yet lives—and dread the occasion of his return.</p>
+</div>
+
+The remainder of the book is concerned with genealogies, family legends, and notable figures in House Wachter's pre-Barovian history, with little relevance to Strahd.
+
+Lady Wachter can share that, according to the book, Vladislav was a Wachter and Lovina's husband. She isn't sure who Reinhold is, however, and doesn't know any more relevant information about Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich, or Tatyana Federovna.
 
 If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to <span class="citation">N4p. Library (p. 113)</span>. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
 

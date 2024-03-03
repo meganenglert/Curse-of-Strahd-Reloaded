@@ -1,7 +1,11 @@
 *An adventure for five 3rd-level characters.*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd's revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village's recently deceased burgomaster. 
+=======
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -643,7 +647,10 @@ When the players return to the burgomaster's manor following the burial, [[dnd/s
 
 Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 ## B5e. Lugdana's Knoll
 Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
@@ -695,12 +702,15 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 > 
 > Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.**
 <<<<<<< HEAD
+<<<<<<< HEAD
 > 
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, Religion, and Stealth.
 > 
 > Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha's Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 > 
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 >
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, and Stealth.
 >

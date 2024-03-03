@@ -55,9 +55,13 @@ If the players return to Vallaki, confront Rictavio, and persuade him that they�
 > Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
 <<<<<<< HEAD
+<<<<<<< HEAD
 > Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[dnd/strahd-reloaded/Chapter 2 - The Land of Barovia/Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
 > 
 > Arabelle hasn't told him, however, that she suffers from a strange and terrible wasting disease—one which will swiftly kill her if left untreated. The sole remedy is an herbal tincture she must receive once every month—and the time left to do so is fast ticking down.
+=======
+> Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 =======
 > Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9

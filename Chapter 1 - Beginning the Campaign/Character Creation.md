@@ -201,9 +201,12 @@ The player who possesses the *amber shard* should have strong, vivid reasons to 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in **Appendix B: The Amber Shards,** offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Redemption—The Angel's Feather.
 ![[dnd/strahd-reloaded/images/Angel's Feather.png]]
 =======
+=======
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 ## Redemption—The Angel's Feather
 ![[Angel's Feather.png]]
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
