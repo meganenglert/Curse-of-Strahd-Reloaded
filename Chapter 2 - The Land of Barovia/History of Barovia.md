@@ -424,9 +424,13 @@ For three years, Rudolph traveled in search of the Vistani who had wronged him. 
 
 The cave was, in truth, a portal to Barovia—the same portal Khazan had accidentally created in his underground catacomb centuries before. There, Rudolph encountered Khazan's spirit, which roused its undead army to aid Rudolph in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!”
 
+<<<<<<< HEAD
 The horde killed all but one young man: Arturi Radanavich, who hid away in a trunk until Rudolph and the monsters had gone. The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a *mist talisman* capable of leading him out of the Mists once more.
 
 Several weeks after Rudolph van Richten departed Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
+=======
+That same year, in Barovia, Izek and his younger sister, the four-year-old Ireena Strazni, were attacked by a **dire wolf**, as described in <span class="citation">Izek Strazni (p. 231)</span>. Although Izek lost his arm, an *amber shard* he had picked up by the shore of Lake Zarovich spoke to him, promising the power to keep his sister safe. Izek accepted the vestige's offer, and destroyed the dire wolf with its fiery power.
+>>>>>>> rying not to break everything
 
 When Izek returned to his senses, however, he found that Ireena had fled, vanishing into the woods. She would later appear near the Village of Barovia with no memory of her past, where she would be adopted by Burgomaster Kolyan Indirovich. (See <span class="citation">E5f. Chapel (p. 46)</span>. 
 

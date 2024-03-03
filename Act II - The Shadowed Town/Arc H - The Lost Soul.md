@@ -28,7 +28,15 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents' grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
 > 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 > Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+=======
+<<<<<<< HEAD
+> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using Victor's undead cats, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+=======
+> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 > 
 > Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor's teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella's soul to the raw energies of the Ethereal Plane.
 > 
@@ -101,8 +109,18 @@ Victor asks the players to visit the refugee camp and investigate the night hag'
 
 If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 > [!lore]+ **Ethereal Entities**
 >
+=======
+<<<<<<< HEAD
+> [!item]+ **Ethereal Entities**
+> 
+=======
+> [!lore]+ **Ethereal Entities**
+>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 > _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
 > 
 > The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
@@ -573,9 +591,21 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
 <p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
 <h3>Reactions</h3>
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 <p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
 <p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
 <p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
+=======
+<<<<<<< HEAD
+<p><strong><em>Mirror Image (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
+<p><strong><em>Hideous Laughter (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
+<p><strong><em>Witch Bolt (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning between Morgantha and the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the attacker takes the same amount of damage.</p>
+=======
+<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
+<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 16 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
+<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 16 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 <p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
 </div>
 
@@ -634,8 +664,13 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <h3>Actions</h3>
 <p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
 <p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +9 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 <p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +9, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
 <p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em>. A target that succeeds on the saving throw is dazed instead. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+=======
+<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +9, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 + 6) piercing damage.</p>
+<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em>. A target that succeeds on the saving throw is dazed instead.</p>
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 <br><br>
 <h3>Bonus Actions</h3>
 <p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
@@ -663,7 +698,15 @@ The hags fight in self-defense, or if the players make clear that they will not 
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 ***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+=======
+<<<<<<< HEAD
+***Victor Vallakovich.*** In battle, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility spell* spell, remaining within 60 feet of the windmill at all times. 
+=======
+***Victor Vallakovich.*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 
 Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
@@ -992,8 +1035,18 @@ A player who makes a successful DC 15 Wisdom (Insight) check discerns that the g
 * When Lovina Wachter's bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to "betray" him and Reinhold's memory.
 
 If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 ### Fighting the Gallows Speaker
 If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
+=======
+<<<<<<< HEAD
+
+If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players' aid, snarling with defiance.
+=======
+### Fighting the Gallows Speaker
+If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 
 > [!info]+ **How Long Does Leo Speak?**  
 > Unless the players immediately attack it, assume the conversation with the gallows speaker takes more than one minute, but fewer than ten minutes (e.g., for the purposes of determining spell duration).
@@ -1014,7 +1067,15 @@ In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mo
 
 When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#H9. The Tome of Strahd]] for more information about the *Tome* and its contents.
+=======
+<<<<<<< HEAD
+When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[dnd/Curse-of-Strahd-Reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd#D3. Unlocking the Tome|Unlocking the Tome]] for more information about the *Tome* and its contents.
+=======
+When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#I9. The Tome of Strahd]] for more information about the *Tome* and its contents.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 
 <div class="statblock">
 <h2>Speaker of the Gallows</h2>
@@ -1185,11 +1246,22 @@ The following morning, Victor also sends the players the following message with 
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**  
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 # H9. The Tome of Strahd
 The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
 
 The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## H9a. Reading the Tome
+=======
+<<<<<<< HEAD
+
+=======
+# I9. The Tome of Strahd
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc L - Dinner with Strahd]] for more information about Sasha Ivliskova.)
+
+The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
+## I9a. Reading the Tome
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 Once successfully opened, the contents of the *Tome* now read as follows: <sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/i4euxw/plaything_of_darkness_a_philosophy_students_take/">6</a></sup>
 
 <div class="description"><p>I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.</p>
@@ -1212,7 +1284,12 @@ Players who read through these sections find numerous annotations referencing (i
 
 > [!abstract]+ **The Symbol**
 >
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc H - The Lost Soul.md
 > The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc M - Argynvost's Beacon]]—is willing to tell them how to get there.
+=======
+> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete **_Arc P - The Beacon of Argynvostholt_**—is willing to tell them how to get there.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc I - The Lost Soul.md
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 

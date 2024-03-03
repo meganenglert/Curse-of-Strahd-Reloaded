@@ -63,6 +63,16 @@ As the players approach Wachterhaus, read the following description instead of t
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
 </div>
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
+=======
+## G2a. Welcome to Wachterhaus
+As the players approach Wachterhaus, read the following description instead of the text in <span class="citation">N4. Wachterhaus (p. 110)</span>:
+
+<div class="description">
+<p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
+</div>
+
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
 
 Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation">N4c. Kitchen (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
@@ -225,12 +235,27 @@ If the players insist that Madam Eva foresaw the existence of the *Sunsword*, sh
 
 ***Accepting the Mission.*** If the players accept Lady Wachter's assignment, she promises that she will send one of her associates to brief them on Izek Strazni's schedule—and provide the bottle of poisoned wine—the following morning.
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
 > [!lore]+ **Ezra: What Barovians Know**
 > Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation"><em>Van Richten's Guide to Ravenloft</em> (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovia passed into the mists, and that no Barovian had heard the goddess's name before then.
 ## F2f. The Traitor
 If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading regarding the *Tome of Strahd*, she hesitates, then promises to tell them all she knows regarding her family's history should they successfully defeat Izek.
 # F3. Return to the Blue Water Inn
 The following morning, as the players enter the taproom of the Blue Water Inn, [[Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
+=======
+<<<<<<< HEAD
+> [!lore]+ **Ezra: What Barovians Know**  
+> Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation">Van Richten's Guide to Ravenloft (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovian passed into the mists, and that no Barovian had heard the goddess's name before then.
+
+=======
+> [!lore]+ **Ezra: What Barovians Know**
+> Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation"><em>Van Richten's Guide to Ravenloft</em> (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovia passed into the mists, and that no Barovian had heard the goddess's name before then.
+## G2f. The Traitor
+If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading regarding the *Tome of Strahd*, she hesitates, then promises to tell them all she knows regarding her family's history should they successfully defeat Izek.
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+# G3. Return to the Blue Water Inn
+The following morning, as the players enter the taproom of the Blue Water Inn, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players' invitation the previous day.
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 
 The man, Ernst Larnak (described in **N4. Wachterhaus**, p. 110), is currently enjoying a breakfast of bread, egg, and cured sausage. In lieu of greeting the players, he reflects (with his mouth full) on the quality of Urwin Martikov's cooking, but mourns that the inn doesn't carry coffee, a wonderful foreign drink he once purchased from a Vistana caravan.
 
@@ -463,12 +488,29 @@ If the players loot Izek's body following his death, they can recover his silver
 If the players successfully deliver Izek’s severed head to [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], she thanks them and assures them that she and her associates will “take it from here.” If the players are concerned about the possibility of further bloodshed, Lady Wachter assures them that, once shown Izek’s head, Baron Vallakovich will step down peacefully. She promises to provide them with any promised compensation the following evening at Wachterhaus, and invites them to attend a public transition ceremony in the town square the following morning.
 
 > [!abstract]+ **The Transfer of Power**
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
+=======
+<<<<<<< HEAD
+> 
+> That night, Lady Wachter, accompanied by her three **cult fanatics**, travels to the Baron's mansion, requests an audience with the Baron, and presents him with Izek's severed head. The Baron, assuming that he is about to be assassinated, attempts to flee. However, he is forcefully stopped by the _command_ spell of one of Lady Wachter's cultists.
+> 
+> Trapped in Lady Wachter's clutches, the Baron spitefully agrees to relinquish his claim to the position of burgomaster. (Lady Wachter graciously permits him to retain his noble title, ensuring that he retains his family's estate, incomes, and other trappings of status.)
+
+The following morning, Vallaki's guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him. 
+=======
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 >
 > That night, Lady Wachter, accompanied by her three **cult fanatics**, travels to the Baron’s mansion, requests an audience with the Baron, and presents him with Izek’s severed head. The Baron, assuming that he is about to be assassinated, attempts to flee. However, he is forcefully stopped by the _command_ spell of one of Lady Wachter’s cultists.
 >
 > Trapped in Lady Wachter’s clutches, the Baron spitefully agrees to relinquish his claim to the position of burgomaster. (Lady Wachter graciously permits him to retain his noble title, ensuring that he retains his family’s estate, incomes, and other trappings of status.)
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
 ## F5a. The Abdication
 The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him. 
+=======
+## G5a. The Abdication
+The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him. 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 
 If the players attend the announcement, Lady Wachter does not publicly acknowledge them, but offers them a knowing look and a small nod of recognition.
 
@@ -489,7 +531,11 @@ If still alive, Father Lucian Petrovich emerges from the crowd and greets the pl
 If asked his opinion on Lady Wachter, Father Petrovich states, carefully, that he believes that her heart is in the right place, and that he believes that the light of the Morninglord can guide any soul—even those that believe themselves lost to the Mists. 
 
 Father Petrovich also briefly expresses his regret for his younger sister, Baroness Lydia Petrovna, who has faced many challenges over the past several months and years, and shares his hopes that the Vallakovich family will find a sense of peace amidst their new circumstances.
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
 ## F5b. The Reward
+=======
+## G5b. The Reward
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 If the players return to Wachterhaus to obtain their promised compensation (if any), Lady Wachter provides it to them with gratitude. Their reward is as follows:
 
 * Up to thirty silvered crossbow bolts
@@ -507,7 +553,11 @@ Lady Wachter can share the following information as she retrieves and leafs thro
 * Her ancestor, Lady Lovina Wachter nee Dilisnya, came to Barovia shortly after Strahd von Zarovich settled it. For her loyalty, she received deeds to land and estates, as well as a Barovian title with Strahd as her liege-lord.
 * Lovina, an amateur historian, wrote *The Noble House of Wachter* to document her new family's history, which allegedly dated back to the days of Old Zarovia, long before Barovia was founded.
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
 Once Lady Wachter has located the proper page, the players can read the following passage from Lovina's book, titled only "The Wedding" and written in erratic, jagged pen-strokes at odds with the clean, elegant script of the remainder of the book:
+=======
+Upon Lady Wachter has located the proper page, the players can read the following passage from Lovina's book, titled only "The Wedding" and written in erratic, jagged pen-strokes at odds with the clean, elegant script of the remainder of the book:
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 
 <div class="description">
 <p>The wedding of Prince Sergei von Zarovich and Tatyana Federovna began with good cheer, but ended in madness and blood. Prince Sergei was found dead in his chambers, his bride-to-be rumored to have cast herself from the overlook in despair.</p>
@@ -521,7 +571,11 @@ The remainder of the book is concerned with genealogies, family legends, and not
 
 Lady Wachter can share that, according to the book, Vladislav was a Wachter and Lovina's husband. She isn't sure who Reinhold is, however, and doesn't know any more relevant information about Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich, or Tatyana Federovna.
 
+<<<<<<< HEAD:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
 ***Milestone.*** Assassinating Izek completes a story milestone. When Lady Wachter takes power, award each player 1,500 XP.
+=======
+***Milestone.*** Assassinating Izek completes a story milestone. When Lady Wachter takes power, award each player 1,250 XP.
+>>>>>>> rying not to break everything:Act II - The Shadowed Town/Arc G - Lady Wachter's Wish.md
 
 > [!abstract]+ **Lady Wachter's Promises**
 > 
