@@ -208,8 +208,10 @@
 * Added [Challenge Ratings 2.0](https://dragna.io/challenge-rated) encounter balancing information for smaller and larger parties. (Credit to @Cheese on the Patreon Discord.)
 * Added room codes to winery scenes in [[Arc J - The Stolen Gem]]
 * Fixed assorted typos
+
 # Hotfix 2.0.5.2 (Dec. 14, 2023)
 * Removed Ezmerelda's knowledge of Kiril Stoyanovich's real name and replaced it with a nickname
+
 # Hotfix 2.0.5.1 (Dec. 13, 2023)
 * Fixed assorted typos
 * Removed Muriel's reference to Kavan as "Blood-Drinker" in [[Arc J - The Stolen Gem]].
@@ -227,17 +229,17 @@
 * Clarified that monsters do not award XP  
 * Clarified that RAW is inapplicable except where expressly incorporated  
 
-**[[History of Barovia]]**
+**[[dnd/strahd-reloaded/Chapter 2 - The Land of Barovia/History of Barovia]]**
 * Added new lore regarding the Dreamer/Devourer  
 * Modified Van Richten's history to restore his curse and Arturi Radanavich's curse and remove his time spent traveling with Arturi  
 * Moved King Dostron's invasion to take place in Kavan's old age  
 
-**[[Arc A - Escape From Death House]]**
+**[[dnd/strahd-reloaded/Act I - Into the Mists/Arc A - Escape from Death House]]**
 * Allowed Rose and Thorn to aid the players in bypassing Gustav  
 * Made Waltz for Klara open the first half of the secret door in the library  
 * Removed the deed from the chest in the secret room and moved the will to Gustav's desk in the library.  
 
-**[[Arc B - Welcome to Barovia]]**
+**[[dnd/strahd-reloaded/Act I - Into the Mists/Arc B - Welcome to Barovia]]**
 * Decreased Dalvan's tally marks to thirteen  
 * Clarified the behavior of Dalvan's compass  
 * Delayed the players' arrival in the village of Barovia to dusk  
@@ -251,7 +253,7 @@
 * Clarified that Doru doesn't fight in self-defense  
 * Clarified the point at which the players learn the identity of the vampire who bit Ireena  
 
-**[[Arc C - Into the Valley]]**
+**[[dnd/strahd-reloaded/Act I - Into the Mists/Arc C - Into the Valley]]**
 * Rebalanced the **zombie plague spreader** to avoid nova turns  
 * Removed Escher's scar  
 * Revised the consequences for disrespect toward Strahd  
@@ -268,7 +270,7 @@
 * Added an additional scene with Rictavio on their first morning at the Blue Water Inn  
 * Increased the milestone XP for the burgomaster's burial and arrival in Vallaki  
 
-**[[Arc D - The Tome of Strahd]]**
+**[[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd]]**
 * Moved the Tome of Strahd to the possession of the **gallows speaker** Leo Dilisnya in the Ethereal Plane  
 * Added an additional paragraph at the end of the *Tome of Strahd*  
 
@@ -315,52 +317,55 @@
 
 **[[Arc I - The Walls of Krezk]]**
 * Added a scene in which the Abbot cures the players' lycanthropy by Krezk's blessed pool
+
 # Version 2.0.4 (Aug. 23, 2023)
 * Added [[Arc D - The Tome of Strahd]], [[Arc D - St. Andral's Feast]], [[Arc E - The Missing Vistana]], [[Arc F - Lady Wachter's Wish]], [[Arc G - The Strazni Siblings]], [[Arc H - The Lost Soul]], [[Arc I - The Walls of Krezk]], and the [[Amber Shards]] appendix
 * added all-new splash art by artist Caleb Cleveland
-* changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword’s hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
-* changed Rahadin to be Kasimir’s cousin-in-law and the son of Prince Erevan Lowenhart
-* shifted Strahd’s transition into his Tyrant phase to begin with the lighting of the beacon of Argynvostholt
+* changed the name of Yaedrag to Soldav; changed the name of Elder Ormir and his wife Alathea to Elder Burebis and Deceba changed the Sunsword's hilt to originally belong to a moonblade owned by dusk elf prince Erevan Lowenhart, whose spirit was sealed within * the hilt by Baba Lysaga to empower the new crystal blade
+* changed Rahadin to be Kasimir's cousin-in-law and the son of Prince Erevan Lowenhart
+* shifted Strahd's transition into his Tyrant phase to begin with the lighting of the beacon of Argynvostholt
 * changed the Barovian Relic representing Harmony to depict a three-pointed star
 * added numbers to \<h5> headers
 * removed Lancelot from Death House
-* removed the “One Must Die” sequence from Death House added additional clues to the flesh mound’s identity and role in Death House and added a new amber shard mechanic to weaken the flesh mound * and gain access to the basement
-* added a new letter in Elisabeth Durst’s jewelry box to clarify amber shard mechanic and ability to defeat the flesh mound
-* moved the key to Rose and Thorn’s room to the attic spare bedroom
+* removed the "One Must Die" sequence from Death House added additional clues to the flesh mound's identity and role in Death House and added a new amber shard mechanic to weaken the flesh mound * and gain access to the basement
+* added a new letter in Elisabeth Durst's jewelry box to clarify amber shard mechanic and ability to defeat the flesh mound
+* moved the key to Rose and Thorn's room to the attic spare bedroom
 * reduced the number of ghouls in the Death House basement to three
 * replaced the skill challenge escape sequence from Death House with two social encounters as the players flee the house
-* removed the requirement that the players bury Walter’s remains
+* removed the requirement that the players bury Walter's remains
 * added a safe place for the players to take a long rest upon exiting Death House
-* modified Dalvan Olensky’s corpse
-* Parriwimple now tells the PCs that “Alanik” had a pet monkey
+* modified Dalvan Olensky's corpse
+* Parriwimple now tells the PCs that "Alanik" had a pet monkey
 * added new detour sequence for Ireena to take on the morning before leaving Barovia
-* delayed the players’ departure from Barovia until noon
-* added Ismark’s recommendation to use Tser Pool as a waypoint
-* added information about Dalvan Olensky’s reading to Tser Pool
+* delayed the players' departure from Barovia until noon
+* added Ismark's recommendation to use Tser Pool as a waypoint
+* added information about Dalvan Olensky's reading to Tser Pool
 * clarified that the skeletal rider is Dalvan Olensky
 * added the date of the full moon plus additional information regarding the curse of lycanthropy in the werewolf encounter en route to Vallaki
 * added new werewolf statblock
-* moved the Tome of Strahd in Vallakovich mansion to Victor’s workroom
+* moved the Tome of Strahd in Vallakovich mansion to Victor's workroom
 * fixed assorted typos
+
 # Version 2.0.3 (Jul. 10, 2023)
-* Added [[Arc C - Into the Valley]]
-* Moved Van Richten’s weapon cache further southwest down the Old Svalich Road.
-* Added an “Ireena Joins the Party” sidebar presenting Ireena as a sidekick member of the party.
-* Moved the Huntress’s Forest Fane to Yester Hill and the Seeker’s Mountain Fane to Old Bonegrinder.
+* Added [[dnd/strahd-reloaded/Act I - Into the Mists/Arc C - Into the Valley]]
+* Moved Van Richten's weapon cache further southwest down the Old Svalich Road.
+* Added an "Ireena Joins the Party" sidebar presenting Ireena as a sidekick member of the party.
+* Moved the Huntress's Forest Fane to Yester Hill and the Seeker's Mountain Fane to Old Bonegrinder.
 * Added a fallback at the end of Death House in the event that the players fail the skill challenge.
 * Removed the Hooded One from the Tarokka reading options for the Sunsword.
-* Fixed Strahd’s statblock to limit his Father of the Night feature to humanoids.
-* Fixed a design note to clarify that the party’s final companions are expected to be Ezmerelda, Ireena, and Kasimir.
-* Added Strahd’s Espionage Tracker tothe end of the guide.
+* Fixed Strahd's statblock to limit his Father of the Night feature to humanoids.
+* Fixed a design note to clarify that the party's final companions are expected to be Ezmerelda, Ireena, and Kasimir.
+* Added Strahd's Espionage Tracker to the end of the guide.
 * Updated the NPC appendix with new profiles.
-* Moved Van Richten’s birth three years earlier in the History of Barovia.
+* Moved Van Richten's birth three years earlier in the History of Barovia.
 * Expanded A New Generation in the History of Barovia with information regarding the backstories of Lady Fiona Wachter, Izek Strazni, and Baron Vargas Vallakovich.
-* Modified Ismark’s NPC Profile inspirations to reference Jon Snow and Faramir instead of Ned Stark and Boromir.
+* Modified Ismark's NPC Profile inspirations to reference Jon Snow and Faramir instead of Ned Stark and Boromir.
 * Updated citation superscripts to be hyperlinks and removed bibliographies.
 * Confirmed the XP earned for escaping Death House and burying Kolyan to be 400 XP each.
 * Fixed assorted typos and minor omissions.
+
 # Version 2.0.2 (Jun. 23, 2023)
-* Added [[Arc B - Welcome to Barovia]]
+* Added [[dnd/strahd-reloaded/Act I - Into the Mists/Arc B - Welcome to Barovia]]
 * Updated cover page font.
 * Revised and expanded the Strahd's Return segment in the History of Barovia, adding The Darkened Valley and The Wrath of Strahd as additional segments.
 * Moved the Inhabitants of Barovia section to a new appendix at the end of the guide.

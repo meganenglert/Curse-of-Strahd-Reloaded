@@ -7,6 +7,7 @@ At St. Andral's Church, the players will be tasked with recovering the stolen bo
 Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, Izek Strazni prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
 
 Act II ends when the players reach 5th level. (See [[#Milestones]] below.) However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+
 # Milestones
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
 
@@ -17,12 +18,13 @@ The players begin this act at 4th level and end it at 5th level, with each playe
 * restore the soul of Stella Wachter (1,750 XP)
 * gain entry to the gates of Krezk (750 XP)
 
-> [!info]+ **Vallakian Merchants**
+> [!info]+ **Vallakian Merchants**  
 > While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.
 > 
 > In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
 > 
 > When purchasing items from the players, Vallakian merchants will pay the item's full value for magic items and treasure, but half of the item's value for all other goods (e.g., weapons or armor). Merchants also have limited funds. A store cannot provide more than 50 gold pieces for a single item, but may provide store credit for its remaining value.
+
 # Timeline
 Once the players arrive in Vallaki and Act II begins, the timeline of events unfolds as follows.
 ## Neyavr 2
@@ -37,12 +39,12 @@ At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring 
 Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc G - The Strazni Siblings]] if Izek has not already seen Ireena.
 
 > [!abstract]+ **Ireena's Diplomacy**
->
+> 
 > The day after she speaks with the refugees for the first time, Ireena attempts to meet with the Baron, using her noble birth as a means of obtaining his attention. Though she expects to meet with him alone, she welcomes the players' support and assistance if offered.
->
-> If Ireena has already encountered or heard of the Baron’s temperament, she is under no illusions as to the difficulty of winning his favor. However, she is determined to do her best to at least try to help her people—and, as a noble, she is no stranger to the realities of negotiation, compromise, and manipulation.
->
-> During Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. 
+> 
+> If Ireena has already encountered or heard of the Baron's temperament, she is under no illusions as to the difficulty of winning his favor. However, she is determined to do her best to at least try to help her people—and, as a noble, she is no stranger to the realities of negotiation, compromise, and manipulation.
+> 
+> During Ireena's meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. 
 > 
 > If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in <span class="citation">Roleplaying the Vallakovich Family (p. 105)</span>. He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
@@ -108,6 +110,7 @@ Alternately, particularly swift players might take the following path through Ac
 * **Neyavr 8.** The players take a day of downtime in Vallaki before defeating the spirit of Leo Dilisnya in [[Arc H - The Lost Soul]] on the night of the full moon.
 ## Diverging Paths
 The town of Vallaki can be a tangled web of assorted paths in the original module. While this guide aims to present it in a more streamlined and predictable manner, DMs may still find the number of possible events, characters, and outcomes to feel overwhelming. To help you digest this act, two of many potential paths have been provided below to guide you in understanding how your players' choices might drive the narrative forward.
+
 ## The Zealous Crusaders
 In this potential narrative, the players are passionate, quick-moving characters with a penchant for action over thought.
 ### Neyavr 2

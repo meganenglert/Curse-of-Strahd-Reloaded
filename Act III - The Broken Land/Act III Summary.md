@@ -1,4 +1,6 @@
-In this act, which begins the morning after the players’ first full moon in Vallaki, the players receive a pair of invitations.
+In this act, which begins the morning after the players' first full moon in Vallaki, the players receive a pair of invitations.
+
+The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[dnd/Curse-of-Strahd-Reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]].
 
 The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
 
@@ -20,18 +22,18 @@ The players begin this act at 5th level and should end it at 8th level, gaining 
 
 * defeat the druids occupying the Wizard of Wines winery (2,000 XP)
 * retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,250 XP)
+* recruit Ezmerelda d'Avenir at the Abbey of St. Markovia (1,250 XP)
 * bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
-* receive Argynvost’s mission at Argynvostholt (2,000 XP)
-* lift Rudolph van Richten’s curse (2,000 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (1,000 XP)
+* receive Argynvost's mission at Argynvostholt (2,000 XP)
+* lift Rudolph van Richten's curse (2,000 XP)
+* put Varushka's ghost to rest and find her hidden cache in Castle Ravenloft (1,000 XP)
 * return from Castle Ravenloft following the dinner with Strahd (2,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (1,000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (1,000 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (1,000 XP)
+* steal Argynvost's skull from Ravenloft's **Hall of Bones** (1,000 XP)
+* recover the *Icon of Ravenloft* from Ravenloft's catacombs (1,000 XP)
+* rescue Emil Toranescu from Ravenloft's dungeons (1,000 XP)
 * rescue Gertruda from the master bedroom of Castle Ravenloft (500 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (500 XP)
-* purify the Abbot’s soul (2,000 XP)
+* raid Strahd's hidden treasury in Castle Ravenloft (500 XP)
+* purify the Abbot's soul (2,000 XP)
 * rescue Ilya Krezkov (1,000 XP)
 * obtain the *Holy Symbol of Ravenkind* (2,000 XP)
 * light the beacon of Argynvostholt (3,000 XP)

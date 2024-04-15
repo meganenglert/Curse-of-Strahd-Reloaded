@@ -24,6 +24,7 @@ The church's occupants follow the following schedule unless interrupted:
 
 * At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
 * In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
+* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
 * In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
 * In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
 
@@ -46,9 +47,9 @@ The church's occupants follow the following schedule unless interrupted:
 >
 > ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
 
-> [!lore]+ **The Stolen Bones**
+> [!lore]+ **The Stolen Bones**  
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
- >
+ > 
 > So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
 > 
 > When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
@@ -61,7 +62,7 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > Given his profession, Henrik had encountered Milivoj - the church's groundskeeper - on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
 > 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer.     St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
+> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
 > 
 > Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
 > 
@@ -155,7 +156,6 @@ The players can find the following information by investigating the area around 
 
 * While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 15 Intelligence (Investigation) check, and a line of rust-stained dirt smeared across a floorboard with a successful DC 20 Wisdom (Perception) check. 
 * While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 10 Wisdom (Perception) check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
-
 * While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 15 Wisdom (Perception) check. 
 
 The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
@@ -175,7 +175,7 @@ Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a
 <p>Your path leads you to a leaning, decrepit structure that seems to sag beneath its own weight. Its timbers are rotting, the windows cracked and filthy. At its front, a ramshackle wooden door stands slightly askew in its frame atop a small, mud-spattered porch.</p>
 </div>
 
-If the players knock on the door, it’s answered a few moments thereafter by Jarzinka, Milivoj’s mother. Read:
+If the players knock on the door, it's answered a few moments thereafter by Jarzinka, Milivoj's mother. Read:
 
 <div class="description">
 <p>The door groans open, revealing a gaunt, glassy-eyed woman standing on the other side. Her hair is matted with grease and hangs in knots across her shoulders, and a painted beaded necklace hangs around her neck, its colors faded and chipped with age.</p>
@@ -187,40 +187,40 @@ The children in the armchairs are a twelve-year-old boy named Bogan and a ten-ye
 
 Jarzinka is a woman of few words, and is annoyed because she has just finished the last of her dream pastries. If the players ask to speak with Milivoj, she turns to Bogan and Zondra, then grunts at them. The conversation then proceeds as follows:
 
-* Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
-* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
+* Bogan cheerfully informs the players that Milivoj is sick and doesn't want to talk to anyone today.
+* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, "Milo! Someone wants to speak to you."
 
 A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
 
 > [!profile]+ **Profile: Milivoj**
->
-> **Roleplaying Information**
+> 
+> **Roleplaying Information**  
 > ***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
->
+> 
 > ***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
->
+> 
 > ***Motivations.*** Milivoj wants to provide for himself and his siblings.
->
+> 
 > ***Inspirations.*** When playing Milivoj, channel Katniss Everdeen (*The Hunger Games*), Arya Stark (*Game of Thrones*), and Carl Fredericksen (*Up*).
->
-> **Character Information**
+> 
+> **Character Information**  
 > ***Persona.*** To strangers, Milivoj is a quiet, gruff, and hardworking groundskeeper. To those he trusts, Milivoj is a loving and dedicated elder sibling, a frustrated and bitter son, and a desperate and confused young man.
->
+> 
 > ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
->
+> 
 > ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
 ## D2a. Confronting Milivoj
 Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
 
-As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
+As Milivoj reaches the door, he tersely addresses Jarzinka as "Mother" and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
 
-If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
+If the players inform Milivoj that they want to speak with him about St. Andral's bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
 
 Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
 If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
+If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
 
 If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
 
@@ -233,9 +233,9 @@ Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lu
 If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
 > [!abstract]+ **Reporting the Theft**
->
+> 
 > If the players report the theft to Baron Vallakovich and do not accompany his guards, the four guards gain access to the coffin maker's shop as described in **N6. Coffin Maker's Shop**, but are slaughtered when they accidentally trigger Volenta's trap and alert the vampires to their presence.
->
+> 
 > One day later, Baron Vallakovich responds by sending Izek to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
 
 # D3. Arasek Stockyard
@@ -278,7 +278,7 @@ Henrik does not know that Volenta has secretly installed a poison needle trap an
 The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
 * a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
+* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester's cap and bells. 
 
 The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
 
@@ -287,9 +287,9 @@ The poison needle trap can be identified and disarmed as described in the <span 
 
 The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
 
-Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
+Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, "Is no fun, is no Blinsky!" repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
-> [!lore]+ **The Noisemaker**
+> [!lore]+ **The Noisemaker**  
 > Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
 ## D4c. Volenta's Trap
 If the players allow the bell to ring, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
@@ -297,22 +297,22 @@ If the players allow the bell to ring, [[Non-Player Characters#Volenta Popofsky|
 <span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Volenta Popofsky**
->
-> **Roleplaying Information**
+> 
+> **Roleplaying Information**  
 > ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
->
+> 
 > ***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
->
+> 
 > ***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
->
+> 
 > ***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
->
+> 
 > **Character Information**
->
+> 
 > ***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
->
+> 
 > ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
->
+> 
 > ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
 
 Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
@@ -322,7 +322,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
-> [!combat]- **Balancing the First Bride**
+> [!combat]- **Balancing the First Bride**  
 > Due to the phase mechanic and chokepoint, this is a series of three consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 72% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Remove the vampire spawn. Volenta flees once her second phase is bloodied.
@@ -344,24 +344,24 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
+	<tr>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	  <td>16 (+3)</td>
+	  <td>16 (+3)</td>
+	  <td>14 (+2)</td>
+	  <td>14 (+2)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -400,24 +400,24 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>14 (+2)</td>
-      <td>14 (+2)</td>
-    </tr>
+	<tr>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	  <td>16 (+3)</td>
+	  <td>16 (+3)</td>
+	  <td>14 (+2)</td>
+	  <td>14 (+2)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -447,7 +447,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 </div>
 
 ### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
+[[dnd/strahd-reloaded/Appendices/Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
 
 When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
 
@@ -569,24 +569,24 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
+	<tr>
+	  <td>14 (+2)</td>
+	  <td>22 (+6)</td>
+	  <td>17 (+3)</td>
+	  <td>15 (+2)</td>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
@@ -634,24 +634,24 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 <hr>
 <table class="ability-table">
   <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
+	<tr>
+	  <th>STR</th>
+	  <th>DEX</th>
+	  <th>CON</th>
+	  <th>INT</th>
+	  <th>WIS</th>
+	  <th>CHA</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>14 (+2)</td>
-      <td>22 (+6)</td>
-      <td>17 (+3)</td>
-      <td>15 (+2)</td>
-      <td>16 (+3)</td>
-      <td>18 (+4)</td>
-    </tr>
+	<tr>
+	  <td>14 (+2)</td>
+	  <td>22 (+6)</td>
+	  <td>17 (+3)</td>
+	  <td>15 (+2)</td>
+	  <td>16 (+3)</td>
+	  <td>18 (+4)</td>
+	</tr>
   </tbody>
 </table>
 <hr>
