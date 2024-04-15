@@ -197,6 +197,7 @@ Unbeknownst to the player, the *amber shard* was formerly a part of a dark vesti
 
 The player who possesses the *amber shard* should have strong, vivid reasons to want to unlock its secrets and the magic that it possesses.
 
+<<<<<<< HEAD
 ***Developments.*** In **Act I, Arc A: Escape From Death House**, the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc H - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In *Act V, Arc U*, Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in **Appendix B: The Amber Shards,** offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
@@ -210,9 +211,26 @@ If the player character is reduced to 0 hit points in Barovia while in possessio
 ## Redemption—The Angel's Feather
 ![[Angel's Feather.png]]
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
+***Developments.*** In **Act I, Arc A: Escape From Death House**, the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In *Act V, Arc U*, Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
+
+If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in **Appendix B: The Amber Shards,** offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
+<<<<<<< HEAD
+## Redemption—The Angel's Feather
+![[Angel's Feather.png]]
+=======
+<<<<<<< HEAD
+## Redemption—The Angel's Feather.
+![[dnd/strahd-reloaded/images/Angel's Feather.png]]
+=======
+## Redemption—The Angel's Feather
+![[Angel's Feather.png]]
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
 
-Unbeknownst to the player, the *angel's feather* formerly belonged to Lumiel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Lumiel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
+Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Ithuriel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
 
 The player who possesses the *angel's feather* should have strong, vivid reasons to believe that the feather will one day lead them to penance for the sins that they have committed.
 
@@ -298,7 +316,11 @@ Unbeknownst to the player, the medallion once belonged to Sergei von Zarovich, t
 
 The player who possesses the *sunrise medallion* should have strong, vivid reasons to believe that it will strengthen or guide them in faith, and that certain signs of the divine will lead them to those in need of salvation and deliverance.
 
+<<<<<<< HEAD
 ***Developments.*** When the player first approaches St. Andral's Church in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or Lucian, they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
+=======
+***Developments.*** When the player first approaches St. Andral's Church in [[Arc D - St. Andral's Feast]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or Lucian, they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 ## Harmony—The Stone Crest
 ![[dnd/strahd-reloaded/images/Stone Crest.png]]
 A player seeking **harmony** begins the campaign with the *stone crest*, a flat, round stone engraved with the image of a three-pointed star. On the nights of the new moon, the star seems to glimmer with emerald light.

@@ -31,17 +31,23 @@ In contrast to the original *Curse of Strahd* module, this guide offers a single
 In general, ***Lost in the Mists*** may be viewed as a "pure" version of *Curse of Strahd*, focusing its narrative on the isolation and alienation of Barovia. By contrast, ***Barovian Relics*** is best used by Dungeon Masters who are passionate about Barovia's gothic atmosphere and environment, but whose players require a personal connection to the campaign to be emotionally invested.
 
 See ***Arc A. Escape From Death House*** and **A1. Daggerford** for more information about how to run these hooks. If you choose to run ***Barovian Relics*** for one or more of your players, have each of those players choose a motivation from the ***Motivations*** section in **Chapter 1: Into the Mists** before beginning the campaign.
+<<<<<<< HEAD
+
+# Strahd's Spies
+One or more of Strahd's spies check in on the players once each day and once each night, as described in **Strahd's Spies** (p. 29). However, the nature of Strahd's spies may vary with the players' location and the time of day. Use the following table when planning an encounter with a spy:
+=======
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 # Strahd's Spies
 One or more of Strahd's spies check in on the players once each day and once each night, as described in **Strahd's Spies** (p. 29). However, the nature of Strahd's spies may vary with the players' location and the time of day. Use the following table when planning an encounter with a spy:
 
-|Location|Day Encounter|Night Encounter|
-|:---:|:---:|:---:|
-|Village of Barovia|1 Vistani **bandit**|1d4 **swarms of bats**|
-|Svalich Woods|1 **wolf** or **druid**|1 **wolf** or 1d4 **swarms of bats**|
-|Town of Vallaki|1 **swarm of rats** or 1 Wachter **cultist**|1 **swarm of bats**|
-|Village of Krezk|1 **swarm of rats**|1 **swarm of bats**|
-|Mount Ghakis|1 **dire wolf** or 1 **berserker**|1 **swarm of bats**|
+|      Location      |           Day Encounter            |           Night Encounter            |
+| :----------------: | :--------------------------------: | :----------------------------------: |
+| Village of Barovia |        1 Vistani **bandit**        |        1d4 **swarms of bats**        |
+|   Svalich Woods    |      1 **wolf** or **druid**       | 1 **wolf** or 1d4 **swarms of bats** |
+|  Town of Vallaki   |        1 **swarm of rats**         |         1 **swarm of bats**          |
+|  Village of Krezk  |        1 **swarm of rats**         |         1 **swarm of bats**          |
+|    Mount Ghakis    | 1 **dire wolf** or 1 **berserker** |         1 **swarm of bats**          |
 
 Strahd's spies, which all understand Common, report the following information, which you should track using the [**Strahd's Espionage** handout](https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/Strahd's%20Espionage.pdf):
 
@@ -50,17 +56,25 @@ Strahd's spies, which all understand Common, report the following information, w
 * any locations or NPCs that the players are seen visiting.
 
 # Encounters with Strahd
-Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see ***Arc C: Into the Valley***), the players may later speak with him at Yester Hill (see ***Arc M: The Missing Gem***) and dine with him at Castle Ravenloft (see ***Arc L: Dinner with Strahd***).
+Throughout the adventure, the players will have numerous encounters with Strahd von Zarovich. After meeting Strahd for the first time at the River Ivlis Crossroads (see [[Arc C - Into the Valley]]), the players may later speak with him at Yester Hill (see [[Arc J - The Stolen Gem]]) and dine with him at Castle Ravenloft (see [[Arc O - Dinner with the Devil]]).
 
+<<<<<<< HEAD
 Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc Y: The Devil's Ordeals*** for more information.
+=======
+Once Strahd learns that the players have obtained the *Holy Symbol of Ravenkind* or relit the beacon of Argynvostholt, he refocuses his efforts toward determining whether any of them are worthy to serve as generals or consorts in his court. See ***Arc R: The Tyrant's Trials*** for more information.
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 > [!warning]+ **Combat Tactics**  
 > Combat encounters in this guide have been designed using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa), a system that calibrates encounter difficulty to ensure challenging, balanced encounters. Unless specifically provided in this guide, or unless necessary to compete with players using similar tactics, enemies (including Strahd) should not need to use any tactics (e.g., targeting weak players or focus-firing) in order to provide a challenging experience.
 
 # The Tarokka Reading
 ## The Tome of Strahd
+<<<<<<< HEAD
 The contents of the Tome of Strahd are now as described in [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc D - The Tome of Strahd#Reading the Tome|Arc D - The Tome of Strahd]].
 
+=======
+The contents of the Tome of Strahd are now as described in [[Arc H - The Lost Soul#I9a. Reading the Tome|Arc I - The Lost Soul]].
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 ## The Holy Symbol of Ravenkind
 The *Holy Symbol of Ravenkind* has been revised as follows:
 
@@ -88,8 +102,12 @@ Immediately before the scene in which the players meet Madam Eva, if you are usi
 When choosing which card(s) to use for which part of the reading, select from the following lists.
 
 ### The Tome of Strahd
+<<<<<<< HEAD
 The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc I - The Lost Soul]] for more information about the gallows speaker.
 
+=======
+The Tome of Strahd is not present in the Material Plane of Barovia. Instead, the **Nine of Glyphs—Traitor*** foretells that it is held by the **gallows speaker** Leo Dilisnya within the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information about the gallows speaker.
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 ### The Holy Symbol of Ravenkind
 Place the *Holy Symbol of Ravenkind* in the shrine of Mother Night in the werewolf den (***Five of Swords—Myrmidon***).
 

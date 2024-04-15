@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd's revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village's recently deceased burgomaster. 
 =======
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
@@ -9,6 +10,16 @@ In this arc, the players travel to the gloomy village of Barovia, which has been
 =======
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+=======
+<<<<<<< HEAD
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd's revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village's recently deceased burgomaster. 
+=======
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood of the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+>>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+>>>>>>> rying not to break everything
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 In exchange for food, shelter, information, and assistance against Strahd, Ismark asks the players to escort his sister Ireena—a target of Strahd's interest—to St. Andral's Church in the walled town of Vallaki to the west, where he believes she will be safe. Ismark is soon approached by "Mad Mary," a villager whose daughter, Gertruda, has recently left the village in search of her betrothed.
 
@@ -69,8 +80,13 @@ Dalvan's hand holding the compass is splayed out in the direction of a nearby tr
 > 
 > Madam Eva regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
 
+<<<<<<< HEAD
 > [!info]+ **Dalvan's Compass**  
 > Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[dnd/strahd-reloaded/Act III - The Broken Land/Arc K - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc T - The Amber Temple]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
+=======
+>[!info]+ **Dalvan's Compass**
+>Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[Arc J - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc T - The Amber Temple]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 If the players follow the footpath in the direction of the arrow, they soon come to a second tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. The edge of the footpath here bears the corpse of a **horse**, which is in a similar state of decay to Dalvan's.
 
@@ -144,8 +160,14 @@ This area is largely as described in <span class="citation">Blood of the Vine Ta
 <p>An old, chipped stone statue stands at the center of this town square, depicting a man wearing leather armor and holding a sword.</p>
 </div> 
 
+<<<<<<< HEAD
 The statue bears a weather-worn plaque at its base. It reads: "ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." ("B.C." stands for "Barovian Calendar.")  
 ![[dnd/strahd-reloaded/images/Ismark the Great.png]]
+=======
+The statue bears a weather-worn plaque at its base. It reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C.” (“B.C.” stands for “Barovian Calendar.”) 
+![[Ismark the Great.png]]
+<span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 ### Entering the Tavern
 Instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. Alenka, Mirabel, and Sorvia are merely patrons, visiting from Tser Pool to drink and gather news. 
@@ -155,6 +177,7 @@ When the players enter, these Vistani eye them with brief interest, but soon ret
 As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, and invites them to his table. He notes that the players appear to be newcomers to Barovia, apologizes for the state of the village, and asks how they've come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
 
 ![[Ismark.png]]
+<span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 > 
@@ -248,8 +271,13 @@ A few moments after Bildrath has left, if the players haven't already done so, I
 
 Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
 
+<<<<<<< HEAD
 > [!lore]+ **Where's Gertruda?**  
 > Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to secure aid and supplies. However, if the players speak with the Barovian refugees or guards at Vallaki's gates in [[dnd/Curse-of-Strahd-Reloaded/Act I - Into the Mists/Arc C - Into the Valley#C11a. The Vallakian Gates|C11a. The Vallakian Gates]], they can learn that Gertruda never made it to Vallaki.
+=======
+> [!lore]+ **Where's Gertruda?**
+> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to secure aid and supplies. However, if the players speak with the Barovian refugees or guards at Vallaki's gates in [[Arc C - Into the Valley#C12a. The Vallakian Gates|Arc C - Into the Valley]], they can learn that Gertruda never made it to Vallaki.
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 > 
 > Instead, Strahd's black carriage found Gertruda along the Old Svalich Road. Recognizing him, a trembling Gertruda demanded he make good on his obligations as Barovia's liege-lord, providing for the safety and repairs the village so desperately needed. Impressed by her audacity and courage, Strahd invited her to Castle Ravenloft to discuss the matter further—and she has remained there ever since.
 
@@ -266,9 +294,15 @@ When the players arrive, Ismark directs them to knock on the door to "let Ireena
 * The door opens, revealing Ireena Kolyana on the opposite side. "Guests, Ismark?" she asks, raising an eyebrow.
 
 ![[Ireena.png]]
+<span class="credit">"Ireena Kolyana" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+<<<<<<< HEAD
 > [!lore] **The Peephole**  
 > Like most homes in Barovia, Ireena and Ismark's front door is fitted with a peephole that allows them to identify visitors before opening the door. Barovian peepholes, however, are built internally like periscopes, with a pair of hidden tiny mirrors that bounce light to reach the viewer's eye—and thereby omit any vampires, whose reflections won't appear. (The toymaker Gadof Blinsky, of [[dnd/strahd-reloaded/Act II - The Shadowed Town/Arc F - The Missing Vistana#F1. Blinsky Toys|Blinsky Toys]] in Vallaki, can share that these peepholes were first invented by the legendary inventor, Fritz von Weerg.)
+=======
+> [!lore] **The Peephole**
+> Like most homes in Barovia, Ireena and Ismark's front door is fitted with a peephole that allows them to identify visitors before opening the door. Barovian peepholes, however, are built internally like periscopes, with a pair of hidden tiny mirrors that bounce light to reach the viewer's eye—and thereby omit any vampires, whose reflections won't appear. (The toymaker Gadof Blinsky, of [[Arc E - The Missing Vistana#F1. Blinsky Toys|Blinsky Toys]] in Vallaki, can share that these peepholes were first invented by the legendary inventor, Fritz von Weerg.)
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 > [!profile]+ **Profile: Ireena Kolyana**
 > 
@@ -584,6 +618,8 @@ Doru thanks the players and relinquishes the holy symbol without protest. If the
 
 Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel down the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
 
+If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
+
 Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
 
 ### The Burial
@@ -609,7 +645,11 @@ Once he's received his holy symbol, Father Donavich gladly agrees to conduct Kol
 
 The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd's—who hang to the eaves of the church and the nearby mausoleums, watching the players.
 
+<<<<<<< HEAD
 Upon entering the cemetery, Donavich retrieves four shovels from a shed abuting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan's deliverance in the following refrain:
+=======
+Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 <div class="description" style="text-align: center;">
 <p>O Morninglord</p>
@@ -648,15 +688,29 @@ When the players return to the burgomaster's manor following the burial, [[dnd/s
 Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 ## B5e. Lugdana's Knoll
 Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+=======
+## B5e. Lugdana's Knoll
+Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+=======
+<<<<<<< HEAD
+=======
+## B5e. Lugdana's Knoll
+Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
 
 ## B5e. Lugdanna's Knoll
 Approximately an hour before noon, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+<<<<<<< HEAD
+=======
+>>>>>>> rying not to break everything
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 
 Shortly before noon, if the players haven't been keeping track of her, [[dnd/strahd-reloaded/Appendices/Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently briefing a pair of Barovian **scouts** regarding Gertruda's disappearance—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
 
@@ -703,20 +757,36 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 > Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble.**
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>
+> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in Deception, History, Medicine, Perception, and Stealth.
+>
+> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
+>
+=======
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
+<<<<<<< HEAD
 > 
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, Religion, and Stealth.
 > 
 > Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha's Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 > 
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+=======
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 >
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Medicine, Perception, and Stealth.
 >
 > Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 >
 >>>>>>> f5eb5dde98eed9634c2c79ea7d05aa8427a327a9
+<<<<<<< HEAD
+=======
+>>>>>>> rying not to break everything
+>>>>>>> 95da024d6915a93c49fa92ff80c7aeac3e24ce90
 > By default, Ireena chooses the following sidekick options as she gains levels:
 > 
 > - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
